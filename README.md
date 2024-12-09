@@ -35,7 +35,7 @@
 <h3 align="center">Detector de Rostros Inteligente</h3>
 <div align="center">
 <a href="https://github.com/Oscar-Echeverry/Detector-De-Rostros-Inteligente" target="_blank">
-  <img src="https://i.imgur.com/example_image.jpg" width="400" alt="Detector de Rostros Inteligente">
+
 </a>
 <p>
   <a href="https://github.com/Oscar-Echeverry/Detector-De-Rostros-Inteligente" target="_blank">
