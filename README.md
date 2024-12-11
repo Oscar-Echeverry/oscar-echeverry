@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://files.oaiusercontent.com/file-KB5G3sfd2GdA7cgUXxcDGN?se=2024-12-09T17%3A36%3A00Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D15547a90-125f-498d-bb5c-0e4932f50b0b.webp&sig=jCS0LvpVrX38Ft7zJcIIec8S4B9/xsJrOGjInVgWHF0%3D" alt="Banner Personal" width="100%" />
+  <img src="https://www.consultoresexpertos.org/wp-content/uploads/2021/07/shutterstock_1078387013-scaled-1.jpeg" alt="Banner Personal" width="100%" />
 </div>
 
 <div align="center">
