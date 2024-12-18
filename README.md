@@ -45,8 +45,24 @@
 <p>Proyecto para detección de rostros en tiempo real utilizando <strong>Python</strong> y la biblioteca <strong>cvzone</strong>.</p>
 </div>
 </td>
+
+<td width="50%">
+<h3 align="center">Sistema de Medición de Señales</h3>
+<div align="center">
+<a href="https://github.com/Oscar-Echeverry/SistemaMedicionSenales-UdeA" target="_blank">
+
+</a>
+<p>
+  <a href="https://github.com/Oscar-Echeverry/Desafio_1_Udea" target="_blank">
+    <img src="https://img.shields.io/badge/VER%20CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black" alt="Código en GitHub">
+  </a>
+</p>
+<p>Proyecto para captura y análisis de señales analógicas con <strong>Arduino Uno</strong>, <strong>C++</strong> y simulación en <strong>Tinkercad</strong>.</p>
+</div>
+</td>
 </tr>
 </table>
+
 
 ---
 
