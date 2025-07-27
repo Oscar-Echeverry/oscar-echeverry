@@ -26,9 +26,29 @@
 - 🚀 Siempre en busca de nuevos retos y oportunidades para aprender tecnologías innovadoras.  
 
 ---
-
 ## 📂 Proyectos Destacados
+
 <table> 
+  <tr> 
+    <td colspan="2"> 
+      <h3 align="center">TripNest – Desafío Profesional 🧑‍💻</h3> 
+      <div align="center"> 
+        <a href="https://github.com/Oscar-Echeverry/Desafio_Profecional_Digital_House" target="_blank">
+          <img src="https://img.shields.io/badge/VER%20CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black" alt="Código en GitHub">
+        </a>
+        &nbsp;
+        <a href="https://unrivaled-pegasus-e3b9bf.netlify.app" target="_blank">
+          <img src="https://img.shields.io/badge/VER%20SITIO%20WEB-00c853?style=for-the-badge&logo=netlify&logoColor=white" alt="Sitio en Línea">
+        </a>
+      </div>
+      <p align="justify">
+        Plataforma web desarrollada como parte del desafío de certificación <strong>Professional Developer</strong>. Permite buscar y reservar alojamientos (hoteles, casas, etc.), con panel de administración, filtros, autenticación y notificaciones por correo.
+      </p>
+      <p align="justify">
+        <strong>Tecnologías:</strong> React, Java Spring Boot, MySQL, JavaMail.
+      </p>
+    </td>
+  </tr>
   <tr> 
     <td width="50%"> 
       <h3 align="center">Detector de Rostros Inteligente</h3> 
@@ -76,10 +96,8 @@
         Aplicación web desarrollada con <strong>React</strong> que permite buscar películas y obtener información detallada en tiempo real. Este proyecto consume la API de <strong>TMDb</strong> y cuenta con un diseño responsivo e interactivo que mejora la experiencia del usuario. 
       </p> 
     </td> 
-  </tr> 
+  </tr>
 </table>
-
-
 
 ---
 
