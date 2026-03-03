@@ -1,134 +1,137 @@
-<div align="center">
-  <img src="https://www.consultoresexpertos.org/wp-content/uploads/2021/07/shutterstock_1078387013-scaled-1.jpeg" alt="Banner Personal" width="100%" />
-</div>
-
-<div align="center">
-  <h1>¡Hola! Soy Oscar Echeverri 👋</h1>
-  <p><strong>Apasionado por la tecnología, la ciberseguridad y el desarrollo de software</strong></p>
-</div>
-
-<div align="center">
-  <a href="https://github.com/Oscar-Echeverry">
-    <img src="https://img.shields.io/github/followers/Oscar-Echeverry?style=social" alt="GitHub followers" />
-  </a>
-  <a href="https://discord.com/users/tu_discord_id">
-    <img src="https://img.shields.io/discord/tu_discord_id?label=Discord&logo=discord&style=social" alt="Discord" />
-  </a>
-</div>
-
----
-
-## 🌟 Sobre Mí
-
-- 🎓 **Estudiante de Ingeniería en Telecomunicaciones** en la **Universidad de Antioquia**.  
-- 💻 **Professional Developer** en **Digital House**.  
-- 🛡️ Entusiasta de la **ciberseguridad** y el **desarrollo de software**.  
-- 🚀 Siempre en busca de nuevos retos y oportunidades para aprender tecnologías innovadoras.  
-
----
-## 📂 Proyectos Destacados
-
-<table> 
-  <tr> 
-    <td colspan="2"> 
-      <h3 align="center">TripNest – Desafío Profesional 🧑‍💻</h3> 
-      <div align="center"> 
-        <a href="https://github.com/Oscar-Echeverry/Desafio_Profecional_Digital_House" target="_blank">
-          <img src="https://img.shields.io/badge/VER%20CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black" alt="Código en GitHub">
-        </a>
-        &nbsp;
-        <a href="https://unrivaled-pegasus-e3b9bf.netlify.app" target="_blank">
-          <img src="https://img.shields.io/badge/VER%20SITIO%20WEB-00c853?style=for-the-badge&logo=netlify&logoColor=white" alt="Sitio en Línea">
-        </a>
-      </div>
-      <p align="justify">
-        Plataforma web desarrollada como parte del desafío de certificación <strong>Professional Developer</strong>. Permite buscar y reservar alojamientos (hoteles, casas, etc.), con panel de administración, filtros, autenticación y notificaciones por correo.
-      </p>
-      <p align="justify">
-        <strong>Tecnologías:</strong> React, Java Spring Boot, MySQL, JavaMail.
-      </p>
-    </td>
-  </tr>
-  <tr> 
-    <td width="50%"> 
-      <h3 align="center">Detector de Rostros Inteligente</h3> 
-      <div align="center"> 
-        <a href="https://github.com/Oscar-Echeverry/Detector-De-Rostros-Inteligente" target="_blank"> 
-          <img src="https://img.shields.io/badge/VER%20CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black" alt="Código en GitHub"> 
-        </a> 
-      </div> 
-      <p align="justify"> 
-        Proyecto para detección de rostros en tiempo real, implementado con <strong>Python</strong> y la biblioteca <strong>cvzone</strong>. Este proyecto utiliza técnicas avanzadas de procesamiento de imágenes para identificar rostros de manera eficiente en distintas condiciones de iluminación y movimiento. 
-      </p> 
-    </td> 
-    <td width="50%"> 
-      <h3 align="center">Sistema de Medición de Señales</h3> 
-      <div align="center"> 
-        <a href="https://github.com/Oscar-Echeverry/SistemaMedicionSenales-UdeA" target="_blank"> 
-          <img src="https://img.shields.io/badge/VER%20CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black" alt="Código en GitHub"> 
-        </a> 
-      </div> 
-      <p align="justify"> 
-        Sistema diseñado para la captura y análisis de señales analógicas utilizando <strong>Arduino Uno</strong> y <strong>C++</strong>. Incluye simulaciones en <strong>Tinkercad</strong>, proporcionando una solución robusta y versátil para la medición de datos en tiempo real. 
-      </p> 
-    </td> 
-  </tr> 
-  <tr> 
-    <td width="50%"> 
-      <h3 align="center">Aplicación del Clima</h3> 
-      <div align="center"> 
-        <a href="https://github.com/Oscar-Echeverry/weather-app" target="_blank"> 
-          <img src="https://img.shields.io/badge/VER%20CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black" alt="Código en GitHub"> 
-        </a> 
-      </div> 
-      <p align="justify"> 
-        Aplicación web que permite consultar el pronóstico del clima en tiempo real, desarrollada con <strong>JavaScript</strong>, <strong>HTML</strong> y <strong>CSS</strong>. Utiliza una API para obtener datos meteorológicos precisos y presenta la información de forma visualmente atractiva y fácil de usar. 
-      </p> 
-    </td> 
-    <td width="50%"> 
-      <h3 align="center">Buscador de Películas</h3> 
-      <div align="center"> 
-        <a href="https://github.com/Oscar-Echeverry/Buscador_De_Peliculas" target="_blank"> 
-          <img src="https://img.shields.io/badge/VER%20CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black" alt="Código en GitHub"> 
-        </a> 
-      </div> 
-      <p align="justify"> 
-        Aplicación web desarrollada con <strong>React</strong> que permite buscar películas y obtener información detallada en tiempo real. Este proyecto consume la API de <strong>TMDb</strong> y cuenta con un diseño responsivo e interactivo que mejora la experiencia del usuario. 
-      </p> 
-    </td> 
-  </tr>
-</table>
-
----
-
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-  <a href="https://github.com/Oscar-Echeverry">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Oscar-Echeverry&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="Estadísticas de Oscar">
-  </a>
-  <a href="https://github.com/Oscar-Echeverry">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Oscar-Echeverry&layout=compact&langs_count=8&theme=algolia" alt="Lenguajes más usados">
-  </a>
-</div>
-
----
-
-## 📫 Conectemos
+<h1 align="center">Oscar Echeverri 👨‍💻</h1>
+<h3 align="center">Backend Developer (Junior) | Java | Spring Boot | REST APIs | SQL</h3>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/oscar-echeverri01">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-oscar--echeverri01-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:echeverryoscar123@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email-echeverryoscar123%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://github.com/Oscar-Echeverry">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-Oscar--Echeverry-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </div>
 
 ---
 
-### 🎯 Lema Personal  
-> _"El aprendizaje constante y la resolución de problemas son los motores del cambio."_  
+## 🚀 Sobre mí
+
+Soy **Backend Developer Junior enfocado en Java y Spring Boot**, con experiencia desarrollando **APIs REST**, estructurando **lógica de negocio** y trabajando con **bases de datos relacionales**.
+
+Actualmente soy estudiante de **Ingeniería en Telecomunicaciones (Universidad de Antioquia)** y completé el programa **Professional Developer (Digital House)**.
+
+Mi objetivo: construir backends **claros, mantenibles y listos para producción**.
+
+---
+
+## 🛠 Stack Backend
+
+**Lenguaje**
+- Java
+
+**Framework**
+- Spring Boot
+- Spring Data JPA (Hibernate)
+
+**Bases de datos**
+- MySQL (modelado relacional)
+
+**Backend skills**
+- APIs REST (controllers/services/repositories)
+- Validaciones y reglas de negocio
+- Manejo global de errores (exceptions)
+- Integración con servicios externos
+- Notificaciones por correo (JavaMail)
+
+**Herramientas**
+- Git / GitHub
+- Fundamentos de AWS
+- Frontend (React/HTML/CSS) cuando el proyecto lo requiere
+
+---
+
+# ⭐ Proyecto destacado (enfoque Backend)
+
+## 🏨 TripNest — Plataforma de reservas
+**Repositorio:** https://github.com/Oscar-Echeverry/Desafio_Profecional_Digital_House  
+**Demo:** https://unrivaled-pegasus-e3b9bf.netlify.app  
+
+Plataforma para buscar y reservar alojamientos (hoteles, casas, etc.) con panel de administración, filtros, autenticación y notificaciones por correo.
+
+**Lo más relevante en Backend:**
+- API REST con Spring Boot
+- Modelado de datos en MySQL
+- Lógica de reservas/disponibilidad
+- Autenticación
+- Envío de correos con JavaMail
+- Separación por capas (Controller / Service / Repository)
+
+---
+
+# 📌 Otros proyectos (habilidades transferibles a Backend)
+
+> Aunque algunos de estos proyectos son front o de procesamiento, los incluyo porque demuestran **integración con APIs**, **manejo de datos**, **estructura de código** y **lógica** (bases que aplico directamente en backend).
+
+## 🧠 Detector de Rostros Inteligente (Python)
+🔗 https://github.com/Oscar-Echeverry/Detector-De-Rostros-Inteligente
+
+Proyecto de detección de rostros en tiempo real. Aporta a mi perfil por:
+- Lógica y procesamiento en tiempo real
+- Organización del código y uso de librerías externas
+- Manejo/transformación de datos (útil para pipelines y servicios)
+
+---
+
+## 🌦️ Weather App (JavaScript)
+🔗 https://github.com/Oscar-Echeverry/weather-app
+
+Aplicación que consume una API externa y muestra información del clima. Relevancia backend:
+- Consumo de APIs (HTTP)
+- Manejo de respuestas y datos (JSON)
+- Comprensión del contrato cliente-servidor (útil al diseñar endpoints)
+
+---
+
+## 🍿 Buscador de Películas (React + API)
+🔗 https://github.com/Oscar-Echeverry/Buscador_De_Peliculas
+
+Aplicación que consume la API de TMDb para buscar y listar películas. Relevancia backend:
+- Integración con servicios externos
+- Manejo de datos dinámicos
+- Experiencia construyendo features basadas en endpoints
+
+---
+
+## 📊 Estadísticas
+
+<div align="center">
+  <a href="https://github.com/Oscar-Echeverry">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Oscar-Echeverry&show_icons=true&include_all_commits=true&count_private=true" alt="Stats">
+  </a>
+  <a href="https://github.com/Oscar-Echeverry">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Oscar-Echeverry&layout=compact&langs_count=8" alt="Top Langs">
+  </a>
+</div>
+
+---
+
+## 🎯 Objetivo
+
+Busco una oportunidad como **Backend Developer Junior** para aportar en:
+- Desarrollo de APIs REST robustas
+- Modelado de datos y persistencia
+- Implementación de lógica de negocio
+- Buenas prácticas, mantenibilidad y seguridad básica del backend
+
+---
+
+## 📫 Contacto
+
+- 📧 Email: echeverryoscar123@gmail.com  
+- 🔗 LinkedIn: https://www.linkedin.com/in/oscar-echeverri01  
+- 💻 GitHub: https://github.com/Oscar-Echeverry  
+
+---
+
+> “Backend sólido = lógica clara + estructura limpia + datos bien modelados.”
