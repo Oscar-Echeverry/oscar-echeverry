@@ -1,5 +1,5 @@
 <h1 align="center">Oscar Echeverri 👨‍💻</h1>
-<h3 align="center">Backend Developer (Junior) | Java | Spring Boot | REST APIs | SQL</h3>
+<h3 align="center">Backend Developer | Java | Spring Boot | REST APIs | AWS | SQL</h3>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/oscar-echeverri01">
@@ -17,89 +17,106 @@
 
 ## 🚀 Sobre mí
 
-Soy **Backend Developer Junior enfocado en Java y Spring Boot**, con experiencia desarrollando **APIs REST**, estructurando **lógica de negocio** y trabajando con **bases de datos relacionales**.
+Soy **Software Developer con enfoque en Backend**, especializado en **Java y Spring Boot**, con experiencia desarrollando **APIs REST, lógica de negocio y sistemas orientados a producción**.
 
-Actualmente soy estudiante de **Ingeniería en Telecomunicaciones (Universidad de Antioquia)** y completé el programa **Professional Developer (Digital House)**.
+He trabajado en el desarrollo de soluciones tecnológicas que integran **backend, frontend, automatización y despliegue en la nube**, enfocadas en optimizar procesos y mejorar la toma de decisiones.
 
-Mi objetivo: construir backends **claros, mantenibles y listos para producción**.
+Actualmente estudio **Ingeniería en Telecomunicaciones (Universidad de Antioquia)** y cuento con formación como **Professional Developer (Digital House)**.
 
 ---
 
-## 🛠 Stack Backend
+## 💼 Experiencia Aplicada (Proyectos Reales)
 
-**Lenguaje**
+He desarrollado soluciones en entornos reales enfocadas en automatización, análisis de datos y desarrollo de software:
+
+✔ Desarrollo de sistema interno **Full Stack** con **Java (Spring Boot) + React + MySQL**  
+✔ Diseño e implementación de **APIs REST** para gestión de operaciones  
+✔ Automatización en **Python** para análisis de ventas, inventario y compras  
+✔ Identificación de productos de alta y baja rotación  
+✔ Procesamiento y limpieza de datos en inventarios de **+24.000 productos**  
+✔ Desarrollo de **web scrapers y bots en producción**  
+✔ Generación automática de reportes en **Excel**  
+✔ Despliegue y configuración en **AWS (EC2, Linux)**  
+
+> ⚠️ Nota: Estos desarrollos fueron realizados en entornos reales y no pueden ser compartidos públicamente por motivos de confidencialidad.
+
+---
+
+## 🛠 Stack Tecnológico
+
+### 💻 Backend
 - Java
-
-**Framework**
 - Spring Boot
 - Spring Data JPA (Hibernate)
+- APIs REST (Controller / Service / Repository)
 
-**Bases de datos**
+### 🗄 Bases de datos
 - MySQL (modelado relacional)
 
-**Backend skills**
-- APIs REST (controllers/services/repositories)
-- Validaciones y reglas de negocio
-- Manejo global de errores (exceptions)
-- Integración con servicios externos
-- Notificaciones por correo (JavaMail)
+### ⚙️ Automatización & Data
+- Python (web scraping, bots, análisis de datos)
+- Generación de reportes automatizados
 
-**Herramientas**
+### ☁️ Cloud & DevOps
+- AWS (EC2)
+- Linux
+
+### 🌐 Frontend (complementario)
+- React
+- JavaScript
+- HTML / CSS
+
+### 🧰 Herramientas
 - Git / GitHub
-- Fundamentos de AWS
-- Frontend (React/HTML/CSS) cuando el proyecto lo requiere
+- Postman
+- Metodologías ágiles (Scrum)
 
 ---
 
-# ⭐ Proyecto destacado (enfoque Backend)
+## ⭐ Proyecto Destacado
 
-## 🏨 TripNest — Plataforma de reservas
-**Repositorio:** https://github.com/Oscar-Echeverry/Desafio_Profecional_Digital_House  
-**Demo:** https://unrivaled-pegasus-e3b9bf.netlify.app  
+### 🏨 TripNest — Plataforma de reservas
+🔗 Repositorio: https://github.com/Oscar-Echeverry/Desafio_Profecional_Digital_House  
+🌐 Demo: https://unrivaled-pegasus-e3b9bf.netlify.app  
 
-Plataforma para buscar y reservar alojamientos (hoteles, casas, etc.) con panel de administración, filtros, autenticación y notificaciones por correo.
+Plataforma para búsqueda y reserva de alojamientos con panel administrativo, autenticación y notificaciones.
 
-**Lo más relevante en Backend:**
-- API REST con Spring Boot
-- Modelado de datos en MySQL
-- Lógica de reservas/disponibilidad
-- Autenticación
-- Envío de correos con JavaMail
-- Separación por capas (Controller / Service / Repository)
-
----
-
-# 📌 Otros proyectos (habilidades transferibles a Backend)
-
-> Aunque algunos de estos proyectos son front o de procesamiento, los incluyo porque demuestran **integración con APIs**, **manejo de datos**, **estructura de código** y **lógica** (bases que aplico directamente en backend).
-
-## 🧠 Detector de Rostros Inteligente (Python)
-🔗 https://github.com/Oscar-Echeverry/Detector-De-Rostros-Inteligente
-
-Proyecto de detección de rostros en tiempo real. Aporta a mi perfil por:
-- Lógica y procesamiento en tiempo real
-- Organización del código y uso de librerías externas
-- Manejo/transformación de datos (útil para pipelines y servicios)
+**Backend:**
+- API REST con Spring Boot  
+- Modelado de datos en MySQL  
+- Lógica de reservas y disponibilidad  
+- Autenticación de usuarios  
+- Envío de correos con JavaMail  
+- Arquitectura en capas (Controller / Service / Repository)  
 
 ---
 
-## 🌦️ Weather App (JavaScript)
-🔗 https://github.com/Oscar-Echeverry/weather-app
+## 📌 Otros Proyectos
 
-Aplicación que consume una API externa y muestra información del clima. Relevancia backend:
-- Consumo de APIs (HTTP)
-- Manejo de respuestas y datos (JSON)
-- Comprensión del contrato cliente-servidor (útil al diseñar endpoints)
+### 🧠 Detector de Rostros Inteligente (Python)
+🔗 https://github.com/Oscar-Echeverry/Detector-De-Rostros-Inteligente  
+
+- Procesamiento en tiempo real  
+- Uso de librerías externas  
+- Manejo y transformación de datos  
 
 ---
 
-## 🍿 Buscador de Películas (React + API)
-🔗 https://github.com/Oscar-Echeverry/Buscador_De_Peliculas
+### 🌦️ Weather App (JavaScript)
+🔗 https://github.com/Oscar-Echeverry/weather-app  
 
-Aplicación que consume la API de TMDb para buscar y listar películas. Relevancia backend:
-- Integración con servicios externos
-- Manejo de datos dinámicos
-- Experiencia construyendo features basadas en endpoints
+- Consumo de APIs externas  
+- Manejo de datos JSON  
+- Integración cliente-servidor  
+
+---
+
+### 🍿 Buscador de Películas (React + API)
+🔗 https://github.com/Oscar-Echeverry/Buscador_De_Peliculas  
+
+- Integración con API (TMDb)  
+- Manejo de datos dinámicos  
+- Desarrollo basado en endpoints  
 
 ---
 
@@ -116,13 +133,15 @@ Aplicación que consume la API de TMDb para buscar y listar películas. Relevanc
 
 ---
 
-## 🎯 Objetivo
+## 🎯 Objetivo Profesional
 
-Busco una oportunidad como **Backend Developer Junior** para aportar en:
-- Desarrollo de APIs REST robustas
-- Modelado de datos y persistencia
-- Implementación de lógica de negocio
-- Buenas prácticas, mantenibilidad y seguridad básica del backend
+Busco una oportunidad como **Backend Developer / Software Developer**, donde pueda aportar en:
+
+- Desarrollo de **APIs REST robustas**
+- Diseño de sistemas backend escalables
+- Modelado y gestión de datos
+- Automatización de procesos
+- Implementación de buenas prácticas de desarrollo
 
 ---
 
@@ -134,4 +153,4 @@ Busco una oportunidad como **Backend Developer Junior** para aportar en:
 
 ---
 
-> “Backend sólido = lógica clara + estructura limpia + datos bien modelados.”
+> “Un buen backend no solo funciona, también es escalable, mantenible y pensado para el negocio.”
